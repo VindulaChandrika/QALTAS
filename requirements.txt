@@ -1,0 +1,20 @@
+# Q-Atlas Tested Environment Dependencies (Pinned for Windows CPU / Python 3.11)
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.14.1+cpu
+torchvision==0.29.1+cpu
+qiskit==2.5.2
+qiskit-aer==0.17.2
+qiskit-machine-learning==0.9.1
+numpy==2.4.6
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.17.1
+matplotlib==3.11.2
+seaborn==0.13.2
+medmnist==3.0.2
+pylatexenc==2.11
+jupyter==1.1.1
+ipykernel==7.4.0
+nbformat==5.11.1
+nbconvert==7.17.1
