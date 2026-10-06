@@ -60,7 +60,8 @@ We use a 4-qubit `zz_feature_map` from the Qiskit Circuit Library with `reps=2` 
 
 The generated circuit diagram is shown below:
 
-![Quantum Circuit Diagram](figures/quantum_circuit.png)
+![Quantum Circuit Diagram]<img width="3416" height="1250" alt="quantum_circuit" src="https://github.com/user-attachments/assets/857c920f-067c-4e1c-85fa-0581e0c533ce" />
+
 
 ---
 
